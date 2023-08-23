@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-embeddedfaqs-dev-144546-authRole",
+      "UnauthRoleArn": "arn:aws:iam::720158199606:role/amplify-embeddedfaqs-dev-144546-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::720158199606:role/amplify-embeddedfaqs-dev-144546-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-embeddedfaqs-dev-144546-deployment",
+      "UnauthRoleName": "amplify-embeddedfaqs-dev-144546-unauthRole",
+      "StackName": "amplify-embeddedfaqs-dev-144546",
+      "StackId": "arn:aws:cloudformation:us-east-1:720158199606:stack/amplify-embeddedfaqs-dev-144546/1b6be690-411c-11ee-a42c-0a2fa288f2f7",
+      "AmplifyAppId": "d34eh9wej9xusc",
+      "NetworkStackS3Url": "https://s3.amazonaws.com/amplify-embeddedfaqs-dev-144546-deployment/amplify-cfn-templates/networkingStackTemplate.json"
+    },
+    "categories": {
+      "api": {
+        "container6bf8739e": {}
+      }
+    }
+  }
+}
